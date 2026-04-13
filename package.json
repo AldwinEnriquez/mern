@@ -12,6 +12,7 @@
     "client": "cd client && npm run dev"
   },
   "dependencies": {
-    "concurrently": "^8.2.2"
+    "concurrently": "^8.2.2",
+    "mongodb": "^7.1.1"
   }
 }
